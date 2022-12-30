@@ -1,0 +1,6 @@
+Pillow
+scipy
+numpy
+rembg
+opencv-python
+opencv-contrib-python
